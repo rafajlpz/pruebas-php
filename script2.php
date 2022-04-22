@@ -16,7 +16,10 @@
 # gettype() ves el tipo de variable pasado como parámetro
 
 //declara dos variables de tipo texto con tu nombre y apellidos Concatena y observa el resultado por pantalla.
+$nombre = 'Rafael';
+$apellidos = 'Lopez';
 
+echo $nombre.''.$apellidos;
 
 //crea una variable y no la incialices. 
 //Utiliza la función gettype() para ver el tipo de datos

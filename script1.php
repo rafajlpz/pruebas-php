@@ -6,6 +6,6 @@ $nombre = "Rafa";
 ?>
 <title> 
     
-    <?php echo 'Hola' $nombre;?>
+    <?php echo 'Hola'  $nombre;?>
 
 </title>
